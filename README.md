@@ -1,2 +1,17 @@
 # Advent-of-Code-2015
-Small exercises written in Python
+Small exercises which were included in the 1st edition of Advent of Code written mostly (if not ONLY) in Python
+
+01) Day 01 - easy adding function
+02) Day 02 - counting the area of the object and the length of the ribbon, mathematical functions
+03) Day 03 - object-oriented simulation of moving in 2dimensional Cartesian coordinates
+04) Day 04 - MD5 hashing using brute-force tests
+05) Day 05 - patterns in strings, used regular functions for 1st half and regular expressions for the latter
+06) Day 06 - nested loops and changing values in a static area, although the input should have been parsed by regex I used the good ol' for loop and   .split() method
+07) Day 07 - DEEP recursion and bitwise operators with the extra help of Python's dictionaries
+08) Day 08 - String literals and escape sequences, surprisingly, it was really easy thanks to eval()
+09) Day 09 - finding the shortest route through all the cities, brute-force solution, used Python's permutations to shorten the solution
+10) Day 10 - Game of Life, itertools.groupby saved my life 
+11) Day 11 - not available (made this particular exercise with the usage of pen and paper :D)
+12) Day 12 - JSON parsing with the small help of regexes once again
+13) Day 13 - counting relations between people sitting in the circle. Simillar to the Day 08 solution except the fact, that I had to count values to the left and right.
+to be appended
