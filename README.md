@@ -1,4 +1,4 @@
-# Advent-of-Code-2015
+# Advent of Code 2015
 Small exercises which were included in the 1st edition of Advent of Code written mostly (if not ONLY) in Python
 
 01) Day 01 - easy adding function
