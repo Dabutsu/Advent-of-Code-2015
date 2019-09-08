@@ -14,4 +14,6 @@ Small exercises which were included in the 1st edition of Advent of Code written
 11) Day 11 - not available (made this particular exercise with the usage of pen and paper :D)
 12) Day 12 - JSON parsing with the small help of regexes once again
 13) Day 13 - counting relations between people sitting in the circle. Simillar to the Day 08 solution except the fact, that I had to count values to the left and right.
+14) Day 14 - couldn't finish it I will post it someday
+15) Day 15 - itertools functions (combinations_with_replacement and permutations) connected with Python's generators create powerful results
 to be appended
