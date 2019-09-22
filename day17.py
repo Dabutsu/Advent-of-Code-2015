@@ -7,14 +7,9 @@ Advent of Code 2015 Day 17
 
 from itertools import combinations
 
-def number_of_poss_ex1(containers: list, value: int) -> int:
-    number = 0
-    for i in range(1, len(containers)):
-        for x in combinations(containers, i):
-            if sum(list(x)) == value:
-                number += 1
-    return number
 
+def number_of_poss_ex1(containers: list, value: int) -> int:
+    return len([list(x) for i in range(1, len(containers)) for x in combinations(containers, i) if sum(list(x)) == value])
 
 def number_of_poss_ex2(containers: list, value: int) -> int:
     poss = [list(x) for i in range(1, len(containers)) for x in combinations(containers, i) if sum(list(x)) == value]
