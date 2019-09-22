@@ -20,7 +20,7 @@ def number_of_poss_ex2(containers: list, value: int) -> int:
     poss = [list(x) for i in range(1, len(containers)) for x in combinations(containers, i) if sum(list(x)) == value]
     mini = len(min(poss, key= len))
     
-    return len(list(map(tuple, filter(lambda x: len(x) == mini))))
+    return len(list(map(tuple, filter(lambda x: len(x) == mini, poss))))
 
 
 if __name__ == "__main__":
