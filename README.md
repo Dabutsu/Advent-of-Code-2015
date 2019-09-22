@@ -16,4 +16,6 @@ Small exercises which were included in the 1st edition of Advent of Code written
 13) Day 13 - counting relations between people sitting in the circle. Simillar to the Day 08 solution except the fact, that I had to count values to the left and right.
 14) Day 14 - couldn't finish it I will post it someday
 15) Day 15 - itertools functions (combinations_with_replacement and permutations) connected with Python's generators create powerful results
+16) Day 16 - to be added
+17) Day 17 - combinations combined with a bit of functional approach create short yet powerful functions
 to be appended
