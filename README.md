@@ -18,4 +18,5 @@ Small exercises which were included in the 1st edition of Advent of Code written
 15) Day 15 - itertools functions (combinations_with_replacement and permutations) connected with Python's generators create powerful results
 16) Day 16 - to be added
 17) Day 17 - combinations combined with a bit of functional approach create short yet powerful functions
+18) Day 18 - Conway's Game of Life with overcomplicated checking functions, should rewrite it someday, even though it works
 to be appended
